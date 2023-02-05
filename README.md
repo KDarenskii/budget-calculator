@@ -4,7 +4,7 @@
 
 ## Запуск приложения
 
-С рабочей версией проекта можно ознакомиться по ссылке: https://kdarenskii.github.io/property-shop/  
+С рабочей версией проекта можно ознакомиться по ссылке: https://kdarenskii.github.io/budget-calculator/ 
 (приложение было опубликовано с помощью сервиса [GitHub Pages](https://pages.github.com/))
 
 ## Используемые ресурсы и инструменты
